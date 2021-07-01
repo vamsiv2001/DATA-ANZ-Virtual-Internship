@@ -1,4 +1,3 @@
-[![MIT License][license-shield]][license-url]
 
 <br />
 <p align="left">
@@ -16,10 +15,7 @@ The dataset is designed to simulate realistic transaction behaviours that are ob
 </p>
 
 ## Table of Contents
-* [Getting Started](#getting-started)
-  * [Data Exploration](#data-exploration)
-  * [Predictive Analytics](#predictive-analytics)
-  
+* [Getting Started](#getting-started)   
 * [License](#license)
 
 
