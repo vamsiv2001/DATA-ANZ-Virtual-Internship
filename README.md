@@ -9,7 +9,6 @@
 
 The dataset is designed to simulate realistic transaction behaviours that are observed in ANZ’s real transaction data, so many of the insights you can gather from the tasks below will be genuine.
     <br />
-    <a href="https://github.com/vamsiv2001/DATA-ANZ-Virtual-Internship"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </p>
